@@ -20,8 +20,10 @@ class Solution:
                 s_max= nums[i]
 
         return max*s_max
-
-
+sol = Solution()
+assert sol.maxProduct(234)== 12
+print("passed")
+    
 
 
         
