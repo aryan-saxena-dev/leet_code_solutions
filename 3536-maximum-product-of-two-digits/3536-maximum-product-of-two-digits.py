@@ -4,20 +4,18 @@ class Solution:
         nums =[]
         max=0
         s_max=float('-inf')
-
-
-        while p> 0:
+        while p >0 :
             digit = p%10
-            nums.append(digit)
+            nums.append(digit) 
             p=p//10
-        for  i in range(len(nums)):
-            if nums[i] > max:
-                s_max=max
-                max =nums[i]
-            
+        for num in nums :
+            if num > max:
+                s_max =max
+                max =num
+            elif max >=num  and num> s_max:
+                s_max = num
+        return max*s_max     
 
-            elif  max >= nums[i] and nums[i] > s_max :
-                s_max= nums[i]
 
         return max*s_max
 sol = Solution()
