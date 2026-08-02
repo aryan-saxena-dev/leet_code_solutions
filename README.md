@@ -25,6 +25,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [0485-max-consecutive-ones](https://github.com/code2946/leet_code_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/code2946/leet_code_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/code2946/leet_code_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code2946/leet_code_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -77,6 +78,7 @@ Maintained by [code2946](https://github.com/code2946).
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/code2946/leet_code_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/code2946/leet_code_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code2946/leet_code_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code2946/leet_code_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -113,6 +115,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/code2946/leet_code_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
@@ -193,4 +196,5 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
