@@ -139,6 +139,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/code2946/leet_code_solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -212,4 +213,12 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/code2946/leet_code_solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/code2946/leet_code_solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
