@@ -62,6 +62,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/code2946/leet_code_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code2946/leet_code_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code2946/leet_code_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -72,6 +73,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [1768-merge-strings-alternately](https://github.com/code2946/leet_code_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code2946/leet_code_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code2946/leet_code_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code2946/leet_code_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/code2946/leet_code_solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/code2946/leet_code_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/code2946/leet_code_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -125,6 +127,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code2946/leet_code_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/code2946/leet_code_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
@@ -133,6 +136,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code2946/leet_code_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code2946/leet_code_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code2946/leet_code_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/code2946/leet_code_solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
